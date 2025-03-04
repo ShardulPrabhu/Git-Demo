@@ -1,2 +1,2 @@
 def solve()->str:
-    return "Hello World"
+    return "Hello GitHub"
